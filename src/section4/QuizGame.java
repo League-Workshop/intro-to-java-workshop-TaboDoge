@@ -5,9 +5,9 @@ public class QuizGame {
 	public static void main(String[] args) {
 		
 		// 1.  Create a variable to hold the user's score 
-		
+String Score = 
 		// 2.  Ask the user a question 
-		
+		String nut = JOptionPane.showInputDialog("");
 		// 3.  Use an if statement to check if their answer is correct
 		
 		// 4.  if the user's answer is correct
